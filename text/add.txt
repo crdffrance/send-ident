@@ -1,0 +1,39 @@
+(English version below)
+
+Bonjour,
+
+Nous avons le plaisir de vous informer que votre message a bien été reçu sur la boîte aux lettres de l'utilisateur "[USERNAME]".
+De plus, nous vous informons que l'adresse email "[EMAIL]" a été ajoutée dans notre liste blanche. Vous n'aurez plus besoin d'effectuer cette procédure à l'avenir puisque vous êtes maintenant dans notre liste blanche.
+
+Informations sur l'email :
+* Token : [TOKEN]
+* Adresse email : [EMAIL]
+* Envoyé sur : [USERNAME]
+* Signature de l'email reçu : [SIG]
+
+### IMPORTANT ###
+En cas de problème avec le service anti-spam, merci de bien vouloir écrire à l'adresse email filter@crdf.fr en décrivant votre problème. Merci d'ajouter la signature de l'email et le TOKEN dans toutes vos communications.
+
+Cordialement,
+L'équipe de CRDF France,
+
+----
+
+Hello,
+
+We are pleased to inform you that your message has been received on the user's mailbox "[USERNAME]".
+Furthermore, we inform you that the email address "[EMAIL]" has been added to our whitelist. You will not need to perform this procedure in the future since you are now in our whitelist.
+
+Information email:
+* Token: [TOKEN]
+* Email address: [EMAIL]
+* Posted on: [USERNAME]
+* Signature of the email received: [SIG]
+
+### IMPORTANT ###
+If problems with the anti-spam service, thank you kindly write to the email address filter@crdf.fr describing your problem. Thank you to add the signature of the email and TOKEN in all your communications.
+
+Regards,
+CRDF Team,
+
+CRDF Sender Authentificator v2016/Feb

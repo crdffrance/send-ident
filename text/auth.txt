@@ -1,0 +1,49 @@
+(English version below)
+
+Bonjour,
+
+Résumé : votre email n'a pas été reçu car la boîte aux lettres de votre destinataire est protégée par un anti-spam. Pour qu'il puisse le recevoir, veuillez répondre simplement à cet email.
+
+L'adresse email "[USERNAME]" est protégée par la protection anti-spam basée sur l'authenfication de l'émetteur de l'email. Actuellement, le message n'a pas été transmis à son destinataire et il est actuellement en attente d'authentification. Sans cette authentification nécessaire, le message ne sera pas lu.
+
+Pour que le destinataire puisse recevoir votre message, merci de bien vouloir simplement répondre à cet email avec un message vide ou ce que vous voulez (en répondant à la même adresse email "[USERNAME]").
+
+Cette procédure devra être effectuée qu'une seule fois pour que votre adresse email soit ajoutée à la liste blanche du serveur de CRDF France. Veuillez ne pas altérer le sujet du message car cela pourrait invalider l'authentification et votre message ne pourra pas être reçu.
+
+Informations sur l'email :
+* Token : [TOKEN]
+* Adresse email : [EMAIL]
+* Envoyé sur : [USERNAME]
+* Signature de l'email reçu : [SIG]
+
+### IMPORTANT ###
+En cas de problème avec le service anti-spam, merci de bien vouloir écrire à l'adresse email filter@crdf.fr en décrivant votre problème. Merci d'ajouter la signature de l'email et le TOKEN dans toutes vos communications.
+
+Cordialement,
+L'équipe de CRDF France,
+
+----
+
+Hello,
+
+Summary: Your email has not been received since your recipient's mailbox is protected by an anti-spam. So he can receive it, simply reply to this email.
+
+The email address "[USERNAME]" is protected by anti-spam protection based on the authentication on the sender of the email. Currently, the message has not been transmitted to the addressee and he is currently awaiting authentication. Without the necessary authentication, the message will not be read.
+
+For the recipient to receive your message, thank you kindly just reply to this email with a blank message or what you want (by answering the same email address "[USERNAME]").
+
+This procedure must be performed once for your email address is added to the white list of server CRDF France. Please do not alter the subject line as this may invalidate authentication and your message may not be received.
+
+Information email:
+* Token: [TOKEN]
+* Email address: [EMAIL]
+* Posted on: [USERNAME]
+* Signature of the email received: [SIG]
+
+### IMPORTANT ###
+If problems with the anti-spam service, thank you kindly write to the email address filter@crdf.fr describing your problem. Thank you to add the signature of the email and TOKEN in all your communications.
+
+Regards,
+CRDF Team,
+
+CRDF Sender Authentificator v2016/Feb
