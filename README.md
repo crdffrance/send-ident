@@ -5,8 +5,9 @@
 PHP7 Anti-Spam based on authentication of the transmitter with advanced filtering and bayes. Self learning of spam and legitimate messages.
 
 Requires:
-MySQL Server
-PHP 7 or 5 version
+
+- MySQL Server
+- PHP 7 or 5 version
 
 # How to set up the program?
 
