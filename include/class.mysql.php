@@ -7,7 +7,6 @@
  * CRDF France Website
  * www.crdf.fr
  * 
- * @author Jocelyn Gribet
  * @copyright (c) CRDF France
  */
 
